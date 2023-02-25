@@ -1,5 +1,5 @@
 const HomePage = () => {
-  return <h1>Hiyadern from El Dern! </h1>;
+  return <p>blogs will go here</p>;
 };
 
 export default HomePage;

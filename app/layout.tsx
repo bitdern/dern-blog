@@ -14,8 +14,8 @@ export default function RootLayout({
       <div>
         <h1>dern.blog</h1>
         <p>
-          Thanks for checking out the blog -- I write about Bitcoin,
-          Regenerative Agriculture, and more 🤙
+          Thanks for checking out my blog -- I write about Bitcoin, Regenerative
+          Agriculture, and more 🤙
         </p>
       </div>
     </header>
