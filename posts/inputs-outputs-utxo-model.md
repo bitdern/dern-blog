@@ -1,10 +1,8 @@
 ---
-title: Learning Bitcoin: Inputs, Outputs, and the UTXO Model
+title: Learning Bitcoin - Inputs, Outputs, and the UTXO Model
 description: "An exporation of bitcoin's fundamental building blocks."
-date: December 12 2022
+date: December 12, 2022
 ---
-
-# Learning Bitcoin: Inputs, Outputs, and the UTXO Model
 
 Bitcoin is a global, permissionless, peer-to-peer network that allows users to construct transactions in order to send value anywhere on the planet. If one wishes to understand the bitcoin network, it is important to understand the individual ledger entries which make up blocks: transactions.
 

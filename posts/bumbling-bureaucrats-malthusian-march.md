@@ -1,10 +1,8 @@
 ---
 title: Bumbling Bureaucrats and the Malthusian March
 description: "Examining recent events in the long saga of the regulatory caputure of America's food industry."
-date: August 21 2022
+date: August 21, 2022
 ---
-
-# Bumbling Bureaucrats and the Malthusian March
 
 America is blessed with abundant natural resources, arable crop land, in particular. So one might expect the average American to be healthy, vital, and happy – given the theoretical variety of quality agricultural products available to consumers. In reality, roughly 42% of Americans are obese, per data gathered during [2017-2018](https://www.cdc.gov/nchs/products/databriefs/db360.htm) by the CDC.
 
