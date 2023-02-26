@@ -59,7 +59,7 @@ Some examples:
 
 Bitcoin developer and educator [Greg Walker](https://twitter.com/in3rsha) puts it this way:
 
-> "The reason why transactions work this way is because it’s an easier and more secure way of doing it from a programming perspective."
+> The reason why transactions work this way is because it’s an easier and more secure way of doing it from a programming perspective.
 
 What is unique about the bitcoin transaction model is that it places a high significance on transaction [outputs](https://learnmeabitcoin.com/beginners/outputs), as opposed to inputs. The reason for this is that the address of output represents the potential to spend in the future; outputs that have yet to be spent are referred to as [UTXOs](https://learnmeabitcoin.com/technical/utxo) — unspent transaction outputs. When a wallet displays a bitcoin balance, you are seeing the sum of all UTXOs that your wallet controls (via private keys).
 
