@@ -1,14 +1,21 @@
 import Link from "next/link";
 import { PostMetadata } from "./PostMetadata";
 
+// the border div & h2 styles are not functioning properly here, neither is the "text-sm" command for date
 const PostPreview = (props: PostMetadata) => {
   return (
-    <div>
+    <div
+      className="border border-slate-300 p-4 rounded-md shadow-sm
+    bg-white"
+    >
+      <p className="text-slate-400">{props.date}</p>
+
       <Link href={`/posts/${props.slug}`}>
-        <h2>{props.title}</h2>
+        <h2 className="font-bold text-violet-600 hover:underline mb-4">
+          {props.title}
+        </h2>
       </Link>
-      <p>{props.description}</p>
-      <p>{props.date}</p>
+      <p className="text-slate-700">{props.description}</p>
     </div>
   );
 };
