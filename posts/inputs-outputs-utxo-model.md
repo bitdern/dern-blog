@@ -1,6 +1,6 @@
 ---
-title: Learning Bitcoin - Inputs, Outputs, and the UTXO Model
-description: "An exporation of bitcoin's fundamental building blocks."
+title: Bitcoin Transactions - Inputs, Outputs, and the UTXO Model
+description: "Exploring the building blocks of bitcoin transactions."
 date: December 12, 2022
 ---
 
