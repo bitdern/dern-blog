@@ -5,7 +5,7 @@ import { PostMetadata } from "./PostMetadata";
 const PostPreview = (props: PostMetadata) => {
   return (
     <div
-      className="border border-violet-400 p-4 rounded-md shadow-md
+      className="border-2 border-violet-400 p-4 rounded-md drop-shadow-xl
       bg-violet-200"
     >
       <p className="text-sm text-slate-500">{props.date}</p>

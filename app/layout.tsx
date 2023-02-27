@@ -15,21 +15,23 @@ export default function RootLayout({
   // header and footer props
   const header = (
     <header>
-      <div className="text-center bg-violet-800 shadow-md p-8 my-6 rounded-md">
+      <div className="text-center border-8 border-double bg-violet-700 drop-shadow-xl p-8 my-6 rounded-md">
         <Image
           src="/derncat.png"
           width={40}
           height={40}
-          className="mx-auto"
+          className="border border-slate-700 mx-auto drop-shadow-xl"
           alt={"logo"}
         />
         <Link href="/">
-          <h1 className="text-2xl text-white font-bold mt-4">dern.blog</h1>
+          <h1 className="text-2xl text-white font-bold mt-4 drop-shadow-xl">
+            dern.blog
+          </h1>
         </Link>
-        <p className="text-slate-300">
-          🙏 Thanks for stopping by! I cover Bitcoin, Regenerative Agriculture,
-          & more 🤙
+        <p className="text-slate-200">
+          ✍️ Writing about Bitcoin, Regenerative Agriculture & other tech 🤙
         </p>
+        <p className="text-slate-200"> 🙏 Thanks for reading! 🙏</p>
       </div>
     </header>
   );
