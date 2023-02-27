@@ -4,6 +4,8 @@ description: "Examining recent events in the long saga of the regulatory caputur
 date: August 21, 2022
 ---
 
+> This post was originally published in [this](https://texasslim.substack.com/p/a-contribution-given?utm_source=%2Fsearch%2Fbitdern&utm_medium=reader2) Beef Initiative newsletter.
+
 America is blessed with abundant natural resources, arable crop land, in particular. So one might expect the average American to be healthy, vital, and happy – given the theoretical variety of quality agricultural products available to consumers. In reality, roughly 42% of Americans are obese, per data gathered during [2017-2018](https://www.cdc.gov/nchs/products/databriefs/db360.htm) by the CDC.
 
 Over the years, there have been attempts to highlight the reasons for this health epidemic; some attribute this trend to the supposition that Americans lead more sedentary lifestyles than, say, Europeans. But a [study](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-020-09293-1) published in August 2020 suggests that Europeans are, on average, trending toward a more sedentary lifestyle themselves.
