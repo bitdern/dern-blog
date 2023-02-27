@@ -1,6 +1,6 @@
 import Link from "next/link";
-import getPostMetaData from "compontents/getPostMetadata";
-import PostPreview from "compontents/PostPreview";
+import getPostMetaData from "components/getPostMetadata";
+import PostPreview from "components/PostPreview";
 
 const HomePage = () => {
   const postMetaData = getPostMetaData();

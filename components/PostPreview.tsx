@@ -11,7 +11,7 @@ const PostPreview = (props: PostMetadata) => {
       <p className="text-slate-400">{props.date}</p>
 
       <Link href={`/posts/${props.slug}`}>
-        <h2 className="text-violet-600 hover:border-dotted font-bold mb-4">
+        <h2 className="border border-slate-500 m-2 rounded-md shadow-md font-bold mb-4">
           {props.title}
         </h2>
       </Link>
