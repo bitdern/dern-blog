@@ -15,7 +15,7 @@ export default function RootLayout({
   // header and footer props
   const header = (
     <header>
-      <div className="text-center bg-slate-800 p-8 my-6 rounded-md">
+      <div className="text-center bg-violet-800 p-8 my-6 rounded-md">
         <Image
           src="/derncat.png"
           width={40}
