@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { ImTwitter, ImGithub } from "react-icons/im";
 import "../styles/globals.css";
 
 export const metadata = {
@@ -29,7 +30,7 @@ export default function RootLayout({
           </h1>
         </Link>
         <p className="text-slate-200">
-          ✍️ Writing about Bitcoin, Regenerative Agriculture & other tech 🤙
+          ✍️ Writing about Bitcoin, Regenerative Agriculture & tech 🤙
         </p>
         <p className="text-slate-200"> 🙏 Thanks for reading! 🙏</p>
       </div>
@@ -38,8 +39,20 @@ export default function RootLayout({
 
   const footer = (
     <footer>
-      <div className="border-t border-slate-400 mt-12 py-6 text-center text-slate-400">
+      <div className="border-t border-slate-400 mt-12 py-6 text-center text-slate-500">
         <h3>Built by Bitdern</h3>
+      </div>
+      <div className="order-2 flex justify-center text-violet-700 mb-10">
+        <Link href="https://twitter.com/bitdern">
+          <h4>
+            <ImTwitter width={20} height={20} />
+          </h4>
+        </Link>
+        <Link href="https://github.com/bitdern">
+          <h4>
+            <ImGithub />
+          </h4>
+        </Link>
       </div>
     </footer>
   );
