@@ -42,10 +42,10 @@ export default function RootLayout({
       <div className="border-t border-slate-400 mt-12 py-6 text-center text-slate-500">
         <h3>Built by Bitdern</h3>
       </div>
-      <div className="order-2 flex justify-center text-violet-700 mb-10">
+      <div className="order-2 flex justify-center text-violet-700 mb-20">
         <Link href="https://twitter.com/bitdern">
           <h4>
-            <ImTwitter width={20} height={20} />
+            <ImTwitter />
           </h4>
         </Link>
         <Link href="https://github.com/bitdern">
