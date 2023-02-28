@@ -1,7 +1,9 @@
+import DarkModebtn from "components/DarkModebtn";
 import Image from "next/image";
 import Link from "next/link";
 import { ImTwitter, ImGithub } from "react-icons/im";
 import "../styles/globals.css";
+import Providers from "./Providers";
 
 export const metadata = {
   title: "Next.js",
@@ -33,6 +35,7 @@ export default function RootLayout({
           ✍️ Writing about Bitcoin, Regenerative Agriculture & tech 🤙
         </p>
         <p className="text-slate-200"> 🙏 Thanks for reading! 🙏</p>
+        <DarkModebtn />
       </div>
     </header>
   );
@@ -62,9 +65,11 @@ export default function RootLayout({
       <head />
       <body>
         <div className="mx-auto max-w-2xl px-6">
-          {header}
-          {children}
-          {footer}
+          <Providers>
+            {header}
+            {children}
+            {footer}
+          </Providers>
         </div>
       </body>
     </html>
