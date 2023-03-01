@@ -4,6 +4,7 @@ import Link from "next/link";
 import { ImTwitter, ImGithub } from "react-icons/im";
 import "../styles/globals.css";
 import Providers from "./Providers";
+import Searchbar from "components/Searchbar";
 
 export const metadata = {
   title: "Next.js",
@@ -36,6 +37,9 @@ export default function RootLayout({
         </p>
         <p className="text-slate-200"> 🙏 Thanks for reading! 🙏</p>
         <DarkModebtn />
+      </div>
+      <div>
+        <Searchbar />
       </div>
     </header>
   );
