@@ -18,7 +18,7 @@ const DarkModebtn = () => {
 
   const currentTheme = theme === "system" ? systemTheme : theme;
   return (
-    <div className="text-sm flex justify-center">
+    <div className="flex justify-center">
       {currentTheme === "dark" ? (
         <BsFillSunFill
           className="px-1 h-6 w-6 cursor-pointer text-yellow-300"
