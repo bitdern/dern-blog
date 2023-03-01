@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { PostMetadata } from "./PostMetadata";
 
-// the border div & h2 styles are not functioning properly here, neither is the "text-sm" command for date
 const PostPreview = (props: PostMetadata) => {
   return (
     <div

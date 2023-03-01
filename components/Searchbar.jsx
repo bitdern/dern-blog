@@ -22,7 +22,7 @@ export default function Searchbar() {
         value={search}
         onChange={(e) => setSearch(e.target.value)}
         type="text"
-        placeholder="Filter posts by keywords..."
+        placeholder="Search bar is a WIP..."
         className="border-2 border-violet-400 w-full h-8 rounded-md  placeholder-violet-700 text-violet-700 bg-violet-200 flex-1"
       />
       <button
