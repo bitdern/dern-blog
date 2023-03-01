@@ -38,9 +38,9 @@ export default function RootLayout({
         <p className="text-slate-200"> 🙏 Thanks for reading! 🙏</p>
         <DarkModebtn />
       </div>
-      <div>
+      {/*      <div>
         <Searchbar />
-      </div>
+      </div> */}
     </header>
   );
 
