@@ -18,13 +18,7 @@ const DarkModebtn = () => {
 
   const currentTheme = theme === "system" ? systemTheme : theme;
   return (
-    <div className="flex justify-center">
-      <select value={theme} onChange={(e) => setTheme(e.target.value)}>
-        <option value="system">System</option>
-        <option value="dark">Dark</option>
-        <option value="light">Light</option>
-      </select>
-
+    <div className="text-sm flex justify-center">
       {currentTheme === "dark" ? (
         <BsFillSunFill
           className="px-1 h-6 w-6 cursor-pointer text-yellow-300"
