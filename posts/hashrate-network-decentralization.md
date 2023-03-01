@@ -1,6 +1,6 @@
 ---
 title: Hashrate in Bitcoin and Network Decentralization
-description: "What hashrate is, why it is important to the network, and sobering facts highlighting the centralized state of global hashrate."
+description: "What hashrate is, why it is important to the network, and facts highlighting the state of global hashrate."
 date: December 20, 2022
 ---
 
