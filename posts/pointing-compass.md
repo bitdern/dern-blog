@@ -81,6 +81,6 @@ My compass is pointing toward an intentional state of being, and I will unflinch
 
 Peter and Maureen Allen, and Mastodon Valley Farm are just one example of intelligent, responsible food producers living in our backyards. It’s up to us to find them, shake their hands, learn from them and create long-lasting relationships.
 
-It is my steadfast promise to each and every supporter of The Beef Initiative that I will continue to onboard as many farmers, ranchers and food producers in the Midwest as I possibly can – whether they be in Michigan, Indiana, Illinois, Iowa, Wisconsin, Minnesota, or anywhere else, I am to facilitate the sustainability of those enterprises.
+It is my steadfast promise to each and every supporter of The Beef Initiative that I will continue to onboard as many farmers, ranchers and food producers in the Midwest as I possibly can – whether they be in Michigan, Indiana, Illinois, Iowa, Wisconsin, Minnesota, or anywhere else, I aim to facilitate the sustainability of those enterprises.
 
-**That is where my compass is pointing, what about you?**
+That is where my compass is pointing, what about yours?

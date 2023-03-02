@@ -8,19 +8,19 @@ date: December 31, 2022
 
 Winter is a time for rest, a time to reconvene and rejoice in the warm embrace of friends and family. To forgive past grievances, to give gifts, to to be present. Winter is also the time for reflection, to consider what has been accomplished over the past year, and to set one’s sights on the future.
 
-This past year, the Beef Initiative has onboarded over 100 producers across the country after starting the year with just three. We have hosted high-signal Micro Summits in Texas, Colorado, Georgia, and Tennessee fostering comprehensive, mutual understandings between ranchers, consumers and bitcoiners who wish to support both parties. Following the lead of content producers like Texas Slim, a growing number of contributors are committing their time, talent and treasure to the organization, and are having a significant impact.
+This past year, the Beef Initiative has onboarded over 100 producers across the country after starting the year with just three. We have hosted high-signal Micro Summits in Texas, Colorado, Georgia, and Tennessee fostering comprehensive, mutual understandings between ranchers, consumers and bitcoiners who wish to support both parties. Following the lead of content producers like Texas Slim, a growing number of contributors are committing their time, talent and treasure to the organization, and are msking an impact.
 
-In 2022, The Beef Initiative has pioneered protocols for creating market access that benefits all involved parties – i.e. producers access to intentional and passionate consumers, and those consumers’ access to premium products, and practical education. Yet, with all that has been accomplished, there are still many miles to go, and much more impact to be had.
+In 2022, The Beef Initiative has pioneered protocols for creating market access that benefits all involved parties – i.e. producers access to intentional and passionate consumers, and those consumers’ access to premium products, and practical education. Yet, with all that has been accomplished, there are still many miles to go, and more impact to be had.
 
-Based on [data](https://www.nass.usda.gov/Publications/AgCensus/2017/Full_Report/Volume_1,_Chapter_1_US/st99_1_0052_0052.pdf) collected in the USDA’s 2017 agricultural census, the average age of an American producer was 58.6 years old; over 73% of those surveyed identified as having 10+ years of farm experience. Conversely, only 8% of respondents indicated that they were below the age of 35. In the five years since the census, it is almost certain that these figures have become even more drastic; what is clear is that there is an upward brain-drain occurring in the United States, particularly in the agricultural sector.
+Based on [data](https://www.nass.usda.gov/Publications/AgCensus/2017/Full_Report/Volume_1,_Chapter_1_US/st99_1_0052_0052.pdf) collected in the USDA’s 2017 agricultural census, the average age of an American producer was 58.6 years old; over 73% of those surveyed identified as having 10+ years of farm experience. Only 8% of respondents indicated that they were below the age of 35. In the five years since the census, it is likely that these figures have become more drastic; there is an upward brain-drain occurring in the United States, particularly in the agricultural sector.
 
-As a nation, we are rapidly losing access to our agrarian heritage as older ranchers retire, and sell their land holdings due to the lack of capable heirs.
+As a nation, we are losing access to our agrarian heritage as older ranchers retire, and sell their land holdings due to the lack of willing or capable heirs.
 
 Time is of the essence, as local producers are suffering from supply chain issues. Per the USDA’s 2022 Farm and Wealth Statistics, total production expenses have increased 18.82% from 2021 to 2022.
 
 ![](/public/farmexpenses.png)
 
-At a point in time where the world is in the throws of economic recession, we must support our farmers and ranchers, in particular, we must find avenues through which to pass down knowledge from the older to younger generations.
+At a point in time where the world is in the grips of economic recession, we must support our farmers and ranchers, in particular, we must find avenues through which to pass down knowledge from the older to younger generations.
 
 ## Hands in the Dirt, Boots on the Ground
 
