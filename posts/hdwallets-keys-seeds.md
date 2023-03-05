@@ -6,7 +6,7 @@ date: March 5, 2023
 
 Following a brief stint battling misconceptions around [energy usage](https://bitdern.com/posts/bitcoin-mining-energy-usage) on the bitcoin network, this post will shift gears and expand upon bitcoin’s cryptographic fundamentals first explored [here](https://bitdern.com/posts/priv-pub-key-sigs).
 
-To those who have used any of popular software protocols, the phrases “wallet” and “seed” are likely familiar. But before venturing into the forest of complexity, let us first take a moment to define those terms in the context of bitcoin.
+To those who have used any popular software protocols, the phrases “wallet” and “seed” are likely familiar. But before venturing into the forest of complexity, let us first take a moment to define those terms in the context of bitcoin.
 
 Generally speaking, a [wallet](https://river.com/learn/terms/w/wallet-bitcoin/) is a software application that displays a “balance” of coins associated with a user’s public keys (addresses) and additionally secures a user’s private keys — with which one can access and spend coins.
 
