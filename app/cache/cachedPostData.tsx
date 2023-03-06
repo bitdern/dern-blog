@@ -28,3 +28,5 @@ export async function cachedPostData(dataType: string) {
   return `export const cachedPosts = ${JSON.stringify(posts)}`;
 } */
 }
+
+export {};
