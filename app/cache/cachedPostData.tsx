@@ -1,4 +1,5 @@
-import fs from "fs";
+{
+  /* import fs from "fs";
 import matter from "gray-matter";
 import { cachedPostData } from "@lib/utils";
 import App from "next/app";
@@ -25,4 +26,5 @@ export async function getAllPostsWithFrontMatter(dataType: string) {
 export async function cachedPostData(dataType: string) {
   const posts = await getAllPostsWithFrontMatter(dataType);
   return `export const cachedPosts = ${JSON.stringify(posts)}`;
+} */
 }
