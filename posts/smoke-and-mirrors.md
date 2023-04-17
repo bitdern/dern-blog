@@ -81,6 +81,6 @@ Solutions are all around us, and all it takes is a handshake, kindness, and the 
 
 ---
 
-Thank you for reading! If you would like to contribute to the sovereignty of the Great American Rancher, please consider donating to the [I Am Texas Slim Foundation](https://beefinitiative.com/donate), where grants are awarded every year to ranchers seeking to expand their operations.
+Thank you for reading! If you would like to contribute to the sovereignty of the Great American Rancher, please consider donating to the [I Am Texas Slim Foundation](https://producers.beefinitiative.com/donate), where grants are awarded every year to ranchers seeking to expand their operations.
 
 > [This article](/posts/tbi-2022-year-review) goes over some of what Jason Wrich is planning to do with the innagural grant.
