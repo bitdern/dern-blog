@@ -53,7 +53,7 @@ Generally speaking, American beef demand is concentrated on high-value cuts like
 
 But why would those meat-packing conglomerates choose to grind cuts like tongue, offal, and even steaks in certain cases? Each of those cuts will fetch premiums in the export market, and so they will be sold abroad.
 
-**Where does that leave American ground beef consumers?**
+_Where does that leave American ground beef consumers?_
 
 A [Kentucky Cattlemen’s Association FAQ sheet](https://kycattle.org/pdf/2020/05-12/FAQ-Imports-Exports.pdf) notes that “We [US beef producers] produce high-quality grain-finished beef, and as a result, we produce a lot of fatty trimmings.” You might wonder, “why are American finished cattle so fat?” It is likely a result of the relationship between beef feedlots and the domestic GMO corn and soy industry.
 
