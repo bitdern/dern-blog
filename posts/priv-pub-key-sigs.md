@@ -35,7 +35,7 @@ Flipping a coin 256 times is a serviceable approach, as it is highly unlikely th
 
 A public key is similarly represented as a large, 256-bit number in the hexadecimal format. However, a public key is actually generated from a private key. This is done by inserting the private key into a mathematical function, specifically, the [elliptic curve](https://learnmeabitcoin.com/beginners/public_keys) as represented by the equation y<sup>2</sup> = <sup>3</sup> + ax + 7 (where a = 0), and the following image:
 
-![](/public/generatorpoint.png)
+![Generator point](/images/public/generatorpoint.png)
 
 > Image Source: http://learnmeabitcoin.com/publickey
 
@@ -43,7 +43,7 @@ Visual representations allow for a more thorough description of the process by w
 
 Elliptic curve multiplication is a process more akin to “bouncing around the curve” on the graph shown to the left until reaching a final coordinate — the numbers associated with this coordinate represent the public key.
 
-![](/public/multiplication.png)
+![Elliptic curve multiplication point](/images/public/multiplication.png)
 
 > Image Source: http://learnmeabitcoin.com/publickey
 

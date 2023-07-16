@@ -55,11 +55,11 @@ Once Rufus had his fill of leaves, sticks, and stream water, we packed up and he
 
 I was skeptical of “mountains” in Wisconsin; I’ve seen many Midwestern “mountains” which are more appropriately classified as mole-hills, but Wildcat Mountain is no such hill. As one enters the park, the road winds up a rather steep limestone (mountain?) that was clearly missed by rogue glaciers.
 
-![Kickapoo River](/public/kickapoo-river.png)
+![Kickapoo River](/images/public/kickapoo-river.png)
 
 The park’s 30 campsites are perched at the very top of the mountain, creating some of the most spectacular campfire locations in the Upper Midwest. Beyond the breathtaking vistas, Wildcat Mountain is situated on 3,603 mostly-wooded acres and boasts 25.8 miles of well-maintained hiking trails.
 
-![Landscape of Wildcat Mountain](/public/wildcat-mtn.jpeg)
+![Landscape of Wildcat Mountain](/images/public/wildcat-mtn.jpeg)
 
 As we wandered through the park, we were continually beset by the magnificent faces of ancient limestone cliffs that have dutifully stood guard over the surrounding Kickapoo River Valley for thousands of years.
 
@@ -79,4 +79,4 @@ Just because something is obvious – e.g. grounding oneself in nature – does 
 
 When we push ourselves outside our comfort zones and live in accordance with our ancestral heritage, then do we become fully embodied, self-same elements in the grand tapestry of Nature.
 
-![Wildcat Mountain lookout point](/public/wildcat-mtn-2.jpeg)
+![Wildcat Mountain lookout point](/images/public/wildcat-mtn-2.jpeg)
