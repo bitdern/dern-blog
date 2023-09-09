@@ -18,7 +18,7 @@ As a nation, we are losing access to our agrarian heritage as older ranchers ret
 
 Time is of the essence, as local producers are suffering from supply chain issues. Per the USDA’s 2022 Farm and Wealth Statistics, total production expenses have increased 18.82% from 2021 to 2022.
 
-![](/public/farmexpenses.png)
+![Expenses](/images/public/farmexpenses.png)
 
 At a point in time where the world is in the grips of economic recession, we must support our farmers and ranchers, in particular, we must find avenues through which to pass down knowledge from the older to younger generations.
 

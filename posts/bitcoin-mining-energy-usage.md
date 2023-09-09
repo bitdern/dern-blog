@@ -48,7 +48,7 @@ In recent years, renewable power generation sources have been added to grids as 
 The sun doesn’t always shine, and the wind doesn’t always blow; power grids that rely too heavily on renewables are at risk of generating too much and too little electricity, the key is balance. In order to achieve this balance, grids rely on sources of electricity that can be dispatched [on demand](https://twitter.com/level39/status/1548550264218583040), at the request of grid operators.
 
 In practice, these sources are predominantly natural gas plants, with coal and nuclear plants making up a smaller share. All power generation facilities take time to come online, for example, nuclear generation facilities can take between 2 and 10 hours to start up:
-![img](/public/powergenstarttime.png)
+![img](/images/public/powergenstarttime.png)
 
 Consider a situation where, due to a source of renewable generation being unavailable, an operator requests a nuclear or coal plant to be activated: everything functions as intended until the renewable sources are back online. At that point, an excess supply of power exists with no buyers. In areas like West Texas where renewable generation is an increasingly larger proportion of grids, [negative](https://twitter.com/ShaunEnergy/status/1507862059169419267) energy prices have become more prevalent. When there is excess supply on the grid, operators are sometimes incentivized to pay customers to use power. Enter co-located bitcoin mining operations.
 
@@ -63,7 +63,7 @@ The Bitcoin mining industry is flexible enough to complement modern power grids 
 Power grid stability is all about balance; during periods of non-peak demand (excess electricity supply), miners can purchase abundant energy for [reduced rates](https://www.prnewswire.com/news-releases/talen-energy-corporation-announces-zero-carbon-bitcoin-mining-joint-venture-with-terawulf-inc-301347297.html) compared to the grid. This represents one side of a “hybrid model” — and as previously mentioned, this allows renewable (and other) sources of energy generation to remain profitable without relying on consistent demand from a grid. The other side of the model circles back to miners being able to curtail their energy consumption should residential or commercial demand spike unexpectedly.
 
 In the oil and gas industry, a byproduct of pumping natural gas from oil wells is methane — among the most damaging greenhouse gas emissions. Often, these oil wells are located in relatively remote locations where it does not make economic sense to capture, transport, and market the excess methane. So operators engage in a process called “flaring,” whereby the excess methane is burned, as this is less damaging to the atmosphere than releasing raw methane.
-![img](/public/flaregas.png)
+![img](/images/public/flaregas.png)
 
 Where there is a will, there is a way: since 2017, Upstream Data has been developing bitcoin mining products that are portable, modular, and perfectly suited for use cases such as this. Companies like Upstream bring in portable mining equipment, warehoused in shipping container-like enclosures. From there, they capture the excess methane and use that as a fuel source to power portable generators which then power the mining hardware. Utilizing the methane in this way is a more controlled burn, reducing emissions and adding another revenue stream for the oil well.
 

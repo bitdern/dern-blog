@@ -2,6 +2,7 @@ import DarkModebtn from "components/DarkModebtn";
 import Image from "next/image";
 import Link from "next/link";
 import { ImTwitter, ImGithub } from "react-icons/im";
+import { GiOstrich } from "react-icons/gi";
 import "../styles/globals.css";
 import Providers from "./Providers";
 import Searchbar from "components/Searchbar";
@@ -58,6 +59,11 @@ export default function RootLayout({
         <Link href="https://github.com/bitdern">
           <h4>
             <ImGithub />
+          </h4>
+        </Link>
+        <Link href="https://snort.social/p/npub1s54cshfy6sgp7gajt97zpgdgxjcpumzwgu3x5zmhqa05krfxqrtsdl74y9">
+          <h4>
+            <GiOstrich />
           </h4>
         </Link>
       </div>
