@@ -1,0 +1,198 @@
+---
+title: How to Secure Your Bitcoin in 2024
+description: "A no-bullshit guide to securing your bitcoin in 2024."
+date: February 2, 2024
+---
+
+Custody is one of the most important aspects of bitcoin, and something that differentiates it from every other asset. By custody, I mean the processes by which we secure bitcoin private keys. You can think of private keys as the mechanism that enables someone to make Bitcoin transactions.
+
+Public-private key pair cryptography is unknown to most, even though it underpins the entire network. That being the case, it is unreasonable to assume that the majority of people—including new participants—will have the desire to learn, practice, and understand how to use bitcoin at a fundamental level.
+
+This article is intended to provide actionable bitcoin custody options in a manner that is accessible for beginners. The list of options is not exhaustive; it represents my opinions on which custody trade-offs make sense given:
+
+1. A person’s technical abilities.
+2. The amount of capital (time & money) they are willing to dedicate to their custody.
+3. Which level(s) of financial security and sovereignty they want to attain.
+
+## Using an Exchange for Bitcoin Custody
+
+Leaving your bitcoin on an exchange is not [self-custody](https://blog.kraken.com/crypto-education/self-custody-best-practices), and that is fine. It is a trade-off: you relinquish control of the bitcoin to the exchange, and in return, your bitcoin is custodied by professionals whom you trust.
+
+If you intend to custody your bitcoin with an exchange, consider one that is focused solely on Bitcoin and actively maintains their own custody infrastructure. [CashApp](https://cash.app/), [River](https://river.com/), and [Strike](https://strike.me/) are all great options.
+
+It could be that people don’t trust their technical abilities, they might not have free time to learn about and practice using the tools, or they might be comfortable with third-party custody. Regardless of the reason, it is likely that a large portion of bitcoin holders will not manage their own private keys—and that is fine.
+
+### Benefits of Using an Exchange for Bitcoin Custody
+
+Your funds should have a high security assurance as long as you use an exchange that [invests in its custody solution](https://blog.river.com/how-river-secures-client-funds/).
+
+Exchanges operate in a manner that investors have come to expect: the user is shown an account balance, can buy or sell bitcoin, withdraw and deposit USD at their discretion.
+
+Abstracting away details like [UTXO management](https://bitbox.swiss/blog/what-is-utxo-consolidation/), and providing users with an easy-to-use backup and recovery methods (e.g. submitting a support ticket, or calling a help desk) leads to a better user-experience for more people—and especially for new users of Bitcoin.
+
+Bitcoin-focused exchanges provide their users with additional features that enhance users’ ability to interact with the network. For example, all three exchanges mentioned offer instantly settling, cheap transactions (via the Lightning Network), are well-connected along that network, and have convenient features like automatically converting some or all of a direct-deposit paycheck into bitcoin.
+
+### Drawbacks of Using an Exchange for Bitcoin Custody
+
+In order to buy, sell, and custody bitcoin on an exchange, users in the United States (and elsewhere) must submit to onerous [KYC/AML](https://bitcoiner.guide/nokyconly/) procedures. This means that your personal information will be associated with your transactions, balances, and network activity.
+
+Further, the internal policies of regulated exchanges are often unclear—withdrawal limits, peculiar transactions failing, long wait times for ACH deposits, how network (mining) fees are calculated—these and other considerations are solely determined by the exchange.
+
+#### Who Are You Trusting?
+
+You are trusting the exchange with your personal information, transaction and balance history, as well as other personally identifying data, such as IP addresses. You are also entrusting your connection to the Bitcoin Network to the exchange.
+
+You cannot truly verify your holdings, nor are you in control of your funds because you do not control the [private keys](https://learnmeabitcoin.com/beginners/private_keys) associated with the bitcoin. It is a permissioned Bitcoin experience—you can use the exchanges’ products and services as long as you follow their rules.
+
+## Storing Bitcoin on an Old Device
+
+By old device, I mean an old phone or laptop that still functions but is no longer used daily. You can also use a new device for this setup, but buying a new Bitcoin-specific device would increase the upfront costs.
+
+- On desktop, or laptop, I recommend [Sparrow Wallet](https://sparrowwallet.com/).
+- On mobile, I recommend using an Android device and [Samourai Wallet](https://samouraiwallet.com/).
+
+Critically: the above recommendations are both [hot wallets](https://bitcoin.design/guide/glossary/wallet/#hot--cold-wallet)—meaning that the wallets are connected to the internet. Keep this in mind before storing a significant amount of bitcoin on these set ups.
+
+Take the following precautions if you are going this route:
+
+1. Completely wipe your device; run malware detection software, factory-reset, etc.
+2. Only use the device for Bitcoin-related activities.
+
+By segregating your Bitcoin activities to this device, you reduce the risk of hacks and theft through the internet—from browsing the internet, and/or downloading software.
+
+### Why You Should Use Sparrow and Samourai for Bitcoin Storage
+
+These set ups empower users who want more control over their funds versus third-party custody; both wallets are non-custodial, meaning that users manage their own private keys.
+
+If you have an old laptop or Android lying around, you can create a relatively secure bitcoin self-custody system without additional expenditure. Just download a free software application, and you can send and receive transactions without anyone’s permission.
+
+#### Sparrow Wallet
+
+Sparrow wallet provides an elegant user-experience; the creator and sole maintainer, Craig Raw, built a wallet that guides users through their bitcoin custody journey, step-by-step.
+
+Power-users will enjoy advanced features such as coin control, UTXO labeling, and a native Whirlpool client—all in a sleek desktop application. Stellar documentation, intuitive UX, and a helpful user-base makes Sparrow my favorite desktop bitcoin wallet.
+
+##### Sparrow Wallet Additional Resources
+
+- [Sparrow’s “Quick Start” Guide](https://sparrowwallet.com/docs/quick-start.html)
+- [theBTCcourse YouTube Guide](https://www.youtube.com/watch?v=Ds2ixmY8kwo)
+- [BitcoinQnA guide (with PGP verification steps)](https://bitcoiner.guide/sparrow/)
+
+#### Samourai Wallet
+
+The Samourai Wallet team are titans in the wallet space, and their Android-only mobile wallet reflects their years of experience.
+
+Widely regarded as having the most extensive suite of privacy tools, users can leverage an offline mode for mobile cold storage, a [CoinJoin](https://bitcoin.design/guide/glossary/#coinjoin) service called Whirlpool, and a [“stealth mode”](https://samouraiwallet.com/stealth), which transforms the wallet app tile into a calculator, VPN, or other dummy app.
+
+In fact, the Samourai team developed the Whirlpool CoinJoin implementation which is leveraged by Sparrow Wallet.
+
+##### Samourai Wallet Additional Resources
+
+- [Samourai’s Documentation](https://docs.samourai.io/)
+- [Ian Major’s YouTube Guide](https://www.youtube.com/watch?v=HNeYNTadDiE)
+
+### Drawbacks of Using Sparrow and Samourai for Bitcoin Storage
+
+Both wallets are very capable of serving as your bitcoin storage solution, but there are some things to keep in mind.
+
+With Sparrow, you can choose to connect your the wallet to a public Bitcoin node (e.g. Blockstream’s) or your own Bitcoin node. So, unless you are running and connected to your own node, you are trusting the Sparrow team’s judgment for your choice between public nodes.
+
+Similarly, if you are not running your own [Dojo node](https://samouraiwallet.com/dojo) for your Samourai wallet, you are using the team’s node.
+
+In either case, if you do not run your own node, you must trust the team behind it. Using a third-party node exposes your wallet's addresses, balance, and transaction history.
+
+#### Who Are You Trusting By Using Sparrow and/or Samourai?
+
+You are trusting the Sparrow and/or Samourai teams. In addition, you are placing trust in yourself to:
+
+- Ensure that you have completely wiped your device.
+- [Verify the software](https://www.youtube.com/watch?v=MaZ8_V-iveQ) for your chosen wallet before installing to the device.
+- Secure your private key backups.
+
+Running your own node minimizes some of the trust-dependencies, but unless you’ve written your own wallet software (which is not advisable for most), you will have to place your trust somewhere.
+
+## Purpose-Built Bitcoin Hardware Devices
+
+By purpose-built hardware device, I am referring to devices that were specifically designed to generate and/or secure bitcoin private keys—there are many such devices.
+
+I recommend:
+
+- [Coldcard](https://coldcard.com/)
+- [SeedSigner](https://seedsigner.com/)
+
+These options are useful for securing a significant amount of funds and having a high degree of assurance in the security setup. Ideally, hardware devices use private keys in an air-gapped fashion; meaning, keys are not exposed to the internet. Both recommended devices can be used in this manner.
+
+### Why You Should Use a Coldcard for Bitcoin Storage
+
+What exactly is a Coldcard? It is a hardware device programmed to generate and/or safeguard securely generated bitcoin private keys. Keys are stored on specialized microchips, and attempts to tamper with the device result in all information on the device being destroyed.
+
+Coldcards offer robust security assurances thanks to their secure elements—microchips embedded in the device that provide dedicated, purpose-built secure storage for your seed words, physically separated from the MCU. The latest version of the Coldcard, the Mk4, has two secure elements, making it even more secure than previous models.
+
+In short: it is the best, ready-made bitcoin hardware device on the market today. Coldcards are loaded with features, and Coinkite—the company that makes the device—have been at it for over a decade. Better still, the user-base of Coldcard is massive; there is no shortage of tutorials, guides, videos, and helpful users to answer any questions you have.
+
+Note that Coldcards need a companion software software wallet (such as Sparrow) to be operated properly.
+
+##### Coldcard Additional Resources
+
+- [Matt Odell’s ColdCard Setup Guide](https://werunbtc.com/coldcard)
+- [Ian Major’s Sparrow + Coldcard Tutorial](https://www.youtube.com/watch?v=7dNGdkeQ7ew&t=12s)
+- [Southern Bitcoiner’s ColdCard Guide Series](https://www.southernbitcoiner.com/coldcard-guides/)
+
+### Trade-Offs of Using a Coldcard for Bitcoin Storage
+
+You are placing your trust in the Coinkite team to:
+
+1. Not ship malicious software updates.
+2. Not collude with the secure element manufacturers to steal user private keys.
+3. Ensure that sensitive user information—like shipping addresses—is properly secured.
+4. Generate a secure seed phrase (unless you already have one)—which encrypts all your funds.
+
+While advanced users can leverage a bunch of features, newer users sometimes find the device intimidating.
+
+Price points on Coinkite’s devices are also higher than some other purpose-built bitcoin devices. But, when considering custody options for a significant amount of wealth, it is prudent not to skim on your security set up.
+
+### Why You Should Use a SeedSigner for Bitcoin Storage
+
+A SeedSigner is a "stateless" device, meaning it does not store your private key or any sensitive wallet information whatsoever. Every time you turn it on, it's blank, as if it had never been used before.
+
+In order to use a SeedSigner, you have to load the private key that you want to work with. So you start by typing in the private key's standard 12- or 24-word [mnemonic backup phrase](https://river.com/learn/terms/s/seed-bitcoin/).
+
+Since that is somewhat laborious, you can then use the SeedSigner to guide you through transcribing your private key into a ["SeedQR" QR code](https://help.blockstream.com/hc/en-us/articles/10426338118169-What-is-a-SeedQR-).
+
+Instead of typing in your mnemonic each time, just scan the SeedQR to instantly load that private key back into a SeedSigner.
+
+Note that the SeedQR is your private key, so it should never be transmitted digitally, not even to a printer. The SeedSigner SeedQR transcription user-interface guides you through a fairly easy process to create the SeedQR by hand. You simply dot a paper template with a marker or you can even stamp it into a steel QR plate.
+
+What I love about this device:
+
+1. Because of SeedSigner's stateless design, if an attacker were to be in possession your device but did not have the SeedQR, they would not be able to steal your funds.
+2. Users can generate private keys by simply taking random pictures with the built-in camera.
+
+Private keys need a certain amount of randomness to be secure; pixels captured by the camera are more than sufficient for that purpose. The crucial guarantee here is that the exact same pixel-for-pixel image can never be captured twice, no matter how hard you try.
+
+##### SeedSigner Additional Resources
+
+- [Southern Bitcoiner’s DIY Build Guide (with software verification step)](https://www.youtube.com/watch?v=mGmNKYOXtxY&t=3s)
+- [SeedSigner’s List of Guides (many languages)](https://seedsigner.com/explainers/#build-guides)
+- [SeedSigner Custody Blog](https://seedsigner.com/seedsigner-independent-custody-guide/)
+- [SeedSigner’s GitHub repository](https://github.com/SeedSigner/seedsigner)
+
+### Trade-Offs of Using a SeedSigner for Bitcoin Storage
+
+SeedSigner’s stateless design places responsibility on the user to ensure that their seed backups are secure—in word or QR format. This entails forethought from users: how and where will you store your seed? Will you make copies of the QR or list of words?
+
+These are similar considerations for backing up any wallet, but keep in mind here that you need to load the seed each time you use the SeedSigner.
+
+Consider, too, how you will source the hardware components and assemble the device. If you intend to construct the device with a minimal information footprint, you might consider purchasing components with cash at local vendors.
+
+You will also need to make sure you know how to correctly assemble the device. For those willing to compromise here, there are vendors who have built up a good reputation who sell fully assembled SeedSigners.
+
+Finally, as with any other software, you need to ensure that the files you download are cryptographically endorsed (signed) by the project’s maintainers prior to installation.
+
+## Conclusion
+
+If you find yourself worried about the route you chose to go down, know that there are many people who are willing to help if asked. Leverage advice from your local bitcoin community: attend meetups, workshops, smaller conferences and meet bitcoiners in-person.
+
+Experiment with different approaches—use different devices with a small amount of funds, and see what you find most intuitive. Bitcoin custody is not static, technologies and methodologies evolve, therefore it is wise to practice different custody models as a means of sharpening your knowledge.
+
+There is no one-size-fits-all in bitcoin custody; each solution presented in this article makes tradeoffs to deliver a certain experience. What is important is that you, the user, understand to the best of your abilities, what tradeoffs are being made with your chosen solution and make informed decisions.
